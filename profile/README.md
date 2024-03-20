@@ -1,7 +1,7 @@
 # Mobilise-D
 
 > [!NOTE]
-> The Alpha release of the Mobilise-D Python pipeline will be published here on Friday the 22nd of March**. Stay tuned!
+> **The Alpha release of the Mobilise-D Python pipeline will be published here on Friday the 22nd of March**. Stay tuned!
 
 
 ## Important Repositories
