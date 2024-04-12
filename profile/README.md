@@ -1,7 +1,7 @@
 # Mobilise-D
 
 > [!NOTE]
-> **The Alpha release of the Mobilise-D Python pipeline is no available! [Click here](https://github.com/mobilise-d/mobgap)**
+> **The Alpha release of the Mobilise-D Python pipeline is now available! [Click here](https://github.com/mobilise-d/mobgap)**
 
 
 ## The Mobilise-D Algorithms
